@@ -447,7 +447,7 @@ if __name__ == "__main__":
 |____/ \__|_|   \__,_|\__|___/    |____/ \___\__,_|_| |_|
                                         Code by Lucifer.
                                         Rewrite by CoolCat
-        '''
+        '''1
         cprint(figlet,'cyan')
         print "Usage: python autofuckstruts2.py http://example.com/index.action  检测"
         print "       python autofuckstruts2.py -u http://example.com/index.action -i struts2-045 进入指定漏洞交互式shell"
